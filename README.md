@@ -23,14 +23,14 @@
 
 ### 🛠 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,html,css,js,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,html,css,js,git,github,linux,vscode,tensorflow, arch" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/vedant-muchlambe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:vedantmuchlambe21@gmail.com">
