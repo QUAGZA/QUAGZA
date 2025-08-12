@@ -9,7 +9,7 @@
 - 🎯 Currently working on **Computer Vision, NLP and Deep Learning**  
 - 💡 Exploring **Data Science, C/C++, and Low Latency Systems**  
 - 📚 Always learning and experimenting with **new technologies**  
-- ⚡ Fun fact: *I *
+- ⚡ Fun fact: *I have only caused a merge conflict once in my life😤*
 
 ---
 
