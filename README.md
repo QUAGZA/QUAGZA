@@ -40,11 +40,11 @@
 
 ---
 
-### 🐍 Fun Animation
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/QUAGZA/QUAGZA/blob/output/github-contribution-grid-snake-dark.svg" />
   <img alt="github-snake" src="https://github.com/QUAGZA/QUAGZA/blob/output/github-contribution-grid-snake.svg" />
 </picture>
+
 ---
 
 ⭐️ *From [QUAGZA](https://github.com/QUAGZA)*
