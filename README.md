@@ -23,7 +23,7 @@
 
 ### 🛠 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,html,css,js,git,github,linux,vscode,tensorflow,arch" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,rust,html,css,js,git,github,linux,vscode,tensorflow,arch" />
 </p>
 
 ---
