@@ -41,7 +41,7 @@
 ---
 
 ### 🐍 Fun Animation
-![Snake animation](https://github.com/QUAGZA/QUAGZA/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/QUAGZA/QUAGZA/tree/output/github-contribution-grid-snake.svg)
 
 ---
 
