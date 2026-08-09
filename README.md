@@ -15,7 +15,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QUAGZA&show_icons=true&theme=tokyonight&cache_bypass=123" alt="GitHub stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=QUAGZA&custom_title=My%20GitHub%20Stats&include_all_commits=true&theme=tokyonight" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=QUAGZA&theme=tokyonight&cache_bypass=123" alt="Streak stats" height="165"/>
 </p>
 ---
